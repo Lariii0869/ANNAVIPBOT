@@ -85,7 +85,7 @@ texts = {
     # Preview
     "preview_caption": {"de": PREVIEW_CAPTION_DE_TPL, "en": PREVIEW_CAPTION_EN_TPL},
     "no_preview_content": {"de": "Ups! Ich konnte gerade keine passenden Inhalte finden...", "en": "Oops! I couldn't find any suitable content right now..."},
-    "next_medium_button": {"de": "🖼️ Nächstes Medium", "en": "🖼️ Next Medium"},
+    "next_medium_button": {"de": "🖼️ Nächstes Bild", "en": "🖼️ Next Picture"},
     "prices_and_packages_button": {"de": "🛍️ Preise & Pakete", "en": "🛍️ Prices & Packages"},
     "preview_limit_reached_alert": {"de": "Du hast dein Vorschau-Limit von 25 Klicks bereits erreicht.", "en": "You have already reached your preview limit of 25 clicks."},
     "preview_limit_reached_text": {"de": "Du hast dein Vorschau-Limit von 25 Klicks erreicht. Sieh dir jetzt die Preise an, um mehr zu sehen!", "en": "You have reached your preview limit of 25 clicks. Check out the prices now to see more!"},
